@@ -1,7 +1,8 @@
 ### Hi there 👋
-I'm currently working on developing a content management system for a personal project
-I'm currently learning Next.js and Express.js
-How to reach me: https://www.linkedin.com/in/blakeminix/
+### 🔭 I'm currently working on developing a content management system
+### 🌱 I'm currently learning Next.js and Express.js
+### 📫 How to reach me: https://www.linkedin.com/in/blakeminix/
+
 
 <!--
 **blakeminix/blakeminix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
