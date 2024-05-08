@@ -1,7 +1,7 @@
 ### Hi there 👋
-### 🔭 I'm currently developing a content management system
-### 🌱 I'm currently learning Next.js and Express.js
-### 📫 How to reach me: https://www.linkedin.com/in/blakeminix/
+- 🔭 I'm currently developing a content management system
+- 🌱 I'm currently learning Next.js and Express.js
+- 📫 How to reach me: https://www.linkedin.com/in/blakeminix/
 
 
 <!--
