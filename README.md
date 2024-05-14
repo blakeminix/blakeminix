@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently developing a content management system
-- 🌱 I'm currently learning Next.js and Express.js
+- 🌱 I'm currently learning Next.js as a full-stack framework
 - 📫 How to reach me: https://www.linkedin.com/in/blakeminix/
 
 
