@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I'm currently developing an open-sourced content management system
-- 🌱 I'm currently learning Next.js as a full-stack development framework
+- 🔭 I'm currently working on a portfolio website
+- 🌱 I'm currently learning Astro and Tailwind CSS
 - 📫 How to reach me: https://www.linkedin.com/in/blakeminix/
 
 
