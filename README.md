@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I'm currently working on a portfolio website
-- 🌱 I'm currently learning Astro and Tailwind CSS
+- 🔭 I'm currently working on a scalable image recognition platform
+- 🌱 I'm currently learning Kubernetes, AWS, and machine learning technologies
 - 📫 How to reach me: https://www.linkedin.com/in/blakeminix/
 
 
