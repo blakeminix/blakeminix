@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently working on buiding a geography-based platform
-- 🌱 I'm currently learning Express.js
+- 🌱 I'm currently learning Firebase Cloud Functions
 - 📫 How to reach me: https://www.linkedin.com/in/blakeminix/
 - ⚡ Fun fact: I share my last name with an operating system
 
