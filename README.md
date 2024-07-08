@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I'm currently working on a personal expense tracker
 - 🌱 I'm currently learning MongoDB, Express.js, and Angular
-- 📫 How to reach me: https://www.linkedin.com/in/blakeminix/
+- 📫 How to reach me: https://www.linkedin.com/in/blakeminix/ / blakeminix2@gmail.com
 - ⚡ Fun fact: I share my last name with an operating system
 
 
