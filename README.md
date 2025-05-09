@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently working on Yallz.com
-<!-- - 🌱 I'm currently learning MongoDB, Express.js, and Angular -->
+- 🔭 I'm currently working on https://www.yallz.com
 - 📫 How to reach me: https://www.linkedin.com/in/blakeminix/ / blakeminix2@gmail.com
 - ⚡ Fun fact: I share my last name with an operating system
 
